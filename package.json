@@ -1,0 +1,30 @@
+{
+  "name": "MechMarket-Scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thy-turk/MechMarket-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thy-turk/MechMarket-Scraper/issues"
+  },
+  "homepage": "https://github.com/thy-turk/MechMarket-Scraper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.1",
+    "mongoose": "^5.9.7",
+    "morgan": "^1.10.0"
+  }
+}
